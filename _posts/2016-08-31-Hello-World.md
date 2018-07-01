@@ -1,6 +1,23 @@
 ---
 layout: post
 title: You're up and running!
+categories:
+  - Edge Case
+tags:
+  - 8BIT
+  - alignment
+  - Articles
+  - captions
+  - categories
+  - chat
+  - comments
+  - content
+  - css
+  - dowork
+  - edge case
+  - embeds
+  - excerpt
+  - Fail
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
