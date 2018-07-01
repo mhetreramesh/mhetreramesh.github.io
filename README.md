@@ -7,7 +7,8 @@
 
 Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
 
-:sparkles: See what's new in the [CHANGELOG](CHANGELOG.md).
+:sparkles:
+## sudo bundle exec jekyll serve
 
 [![Minimal Mistakes live preview][2]][1]
 
