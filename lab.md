@@ -12,7 +12,8 @@ permalink: /my-lab
     new GitHubCalendar(".calendar", "mhetreramesh", {responsive:true});
 </script>
 
-## <img src="http://githubbadges.com/star.svg?user=gliterd&repo=flysystem-backblaze&color=44CC12&background=000&style=flat-squar"> [`Backblaze Flysystem Adapter`](https://github.com/gliterd/flysystem-backblaze)
+## <img src="http://githubbadges.com/star.svg?user=gliterd&repo=flysystem-backblaze&color=44CC12&background=000&style=flat-squar"> [`Backblaze Flysystem Adapter`](https://github.com/gliterd/flysystem-backblaze) [![Total Downloads](https://img.shields.io/packagist/dt/mhetreramesh/flysystem-backblaze.svg?style=flat-square)](https://packagist.org/packages/mhetreramesh/flysystem-backblaze)
+
 
 Official PHP <a target="_blank" href="https://github.com/thephpleague/flysystem">Flysystem</a> adapter for <a target="_blank" href="https://www.backblaze.com/b2/cloud-storage.html">Backblaze B2</a> Cloud Storage. This package is listed on the ThePHPLeague website.
 
