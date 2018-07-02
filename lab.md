@@ -12,6 +12,10 @@ Official PHP <a target="_blank" href="https://github.com/thephpleague/flysystem"
 
 Prepared  Docker Cheat Sheet When I was learning docker.
 
+## [Backblaze B2 SDK](https://github.com/gliterd/backblaze-b2)
+
+Created SDK for Backblaze B2 cloud storage communication which is used by many packages.
+
 ## [Laravel Backblaze Service Provider](https://github.com/gliterd/laravel-backblaze-b2)
 
 Laravel Service Provider for Backblaze B2 Cloud storage.
