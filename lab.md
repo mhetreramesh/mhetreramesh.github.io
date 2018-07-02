@@ -10,7 +10,7 @@ Official PHP <a target="_blank" href="https://github.com/thephpleague/flysystem"
 
 ## <img src="http://githubbadges.com/star.svg?user=gliterd&repo=docker-cheat-sheet&color=44CC12&background=000&style=flat-squar"> [`Docker Cheat Sheet`](https://github.com/gliterd/docker-cheat-sheet)
 
-Prepared  Docker Cheat Sheet When I was learning docker.
+Prepared a docker cheat sheet when I was learning docker & open sourced it
 
 ## <img src="http://githubbadges.com/star.svg?user=gliterd&repo=backblaze-b2&color=44CC12&background=000&style=flat-squar"> [`Backblaze B2 SDK`](https://github.com/gliterd/backblaze-b2)
 
