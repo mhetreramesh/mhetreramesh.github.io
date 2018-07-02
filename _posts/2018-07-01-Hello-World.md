@@ -8,6 +8,8 @@ tags:
   - Personal Website
   - Tech Blog
   - Profolio
+header:
+  teaser: https://media1.tenor.com/images/a51dd05bc954fa11100bb0cc8627c4af/tenor.gif?itemid=5320723
 ---
 
 Hello World!
