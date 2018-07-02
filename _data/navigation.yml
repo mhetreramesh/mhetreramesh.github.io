@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "My Lab"
+    url: /my-lab
   - title: "Who I am"
     url: /who-i-am
   #- title: "About"
