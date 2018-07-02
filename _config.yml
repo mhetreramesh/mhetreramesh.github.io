@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "FullStackWorld"
+title                    : "Full Stack World"
 title_separator          : "-"
 name                     : "By Ramesh Mhetre"
 description              : "An amazing website."
@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Ramesh Mhetre 🤖"
   avatar           : "https://avatars3.githubusercontent.com/u/3095445?v=3&s=96"
-  bio              : "I'm a Product 🚀 guy by day, internet 🌎  guy by night, and this is my website. I love playing ⚽  with technologies."
+  bio              : "I'm a Product 🚀 guy in the days, internet 🌎  guy in the night. I love ❤️ building things with Technologies 💻."
   location         : "Germany"
   email            :
   uri              :
