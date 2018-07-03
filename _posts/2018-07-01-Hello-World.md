@@ -34,5 +34,4 @@ While only html pages make your site loads really fast, its also really secure, 
 
 Since you don't need a server or even a cloud, there is no server maintenance cost. Which also saves pennies & reduces your work load.
 
-
 So far I'm loving it using. You can also go ahead learn & implement it easily.
