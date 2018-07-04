@@ -50,10 +50,20 @@ The idea is to split your application into a set of smaller, interconnected serv
 
 The Microservice architecture pattern significantly impacts the relationship between the application and the database. Instead of sharing a single database schema with other services, each service has its own database schema. On the one hand, this approach is at odds with the idea of an enterprise-wide data model. Also, it often results in duplication of some data.
 
-### Pro
+### Pros
 
 - It tackles the problem of complexity by decomposing the application into a set of manageable services which are much faster to develop, and much easier to understand and maintain.
 - It enables each service to be developed independently by a team that is focused on that service.
 - It reduces the barrier of adopting new technologies since the developers are free to choose whatever technologies make sense for their service and not bounded to the choices made at the start of the project.
 - The microservices architecture enables each microservice to be deployed independently. As a result, it makes continuous deployment possible for complex applications.
 - The microservices architecture enables each service to be scaled independently.
+
+### Cons
+
+- Microservices architecture adding a complexity to the project just by the fact that a microservices application is a distributed system.
+- Microservices has the partitioned database architecture, which becomes more challenging for developers to maintain & manage infrastructure.
+- Testing a microservices application is also much more complex than in case of the monolithic application.
+- It is more difficult to implement changes that span multiple services. You need to carefully plan and coordinate the rollout of changes to each of the services.
+- Deploying a microservices-based application is also more complex. A monolithic application is simply deployed on a set of identical servers behind a load balancer. In contrast, a microservice application typically consists of a large number of services. Each service will have multiple runtime instances.
+- Since the overall infrastructure becomes large compared to monolithic you will end up having more resources to develop & maintain your application.
+
