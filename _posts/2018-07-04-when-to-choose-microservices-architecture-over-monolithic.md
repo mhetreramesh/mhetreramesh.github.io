@@ -16,3 +16,14 @@ I've also have some thoughts about it as per my knowledge like what are they, wh
 ![Docker containers](/images/microservice.png)
 
 ## Monolithic Architecture
+
+When developing a server-side application you can start it with a modular hexagonal or layered architecture which consists of different types of components like:
+
+- **Presentation** — responsible for handling HTTP requests and responding with either HTML or JSON/XML (for web services APIs).
+- **Business logic** — the application’s business logic.
+- **Database access** - data access objects responsible for accessing the data from database.
+- **Application integration** - integration with other services (e.g. via Messaging or REST API).
+
+### Pros
+
+-
