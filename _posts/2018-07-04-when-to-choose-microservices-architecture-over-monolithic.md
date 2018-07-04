@@ -44,3 +44,8 @@ It works well in the early stages of the project or the application. Most of the
 - Another problem with monolithic applications is reliability. Bug in any small module(e.g. memory leak) can potentially bring down the entire process down. Moreover, since all instances of the application are identical, the bug may impact the availability of entire application.
 - Monolithic applications have a barrier to adopting new technologies or updates. Since changes in frameworks or languages can impact the whole application which is extremely cost effective in terms of cost & time.
 
+## Microservices Architecture
+
+The idea is to split your application into a set of smaller, interconnected services instead of building a single monolithic application. Each microservice is a small application that has its own hexagonal architecture consisting of business logic with various adapters. Some microservices would expose a REST, RPC or message-based API and most services consume APIs provided by other services. Other microservices might implement a web UI.
+
+The Microservice architecture pattern significantly impacts the relationship between the application and the database. Instead of sharing a single database schema with other services, each service has its own database schema. On the one hand, this approach is at odds with the idea of an enterprise-wide data model. Also, it often results in duplication of some data.
