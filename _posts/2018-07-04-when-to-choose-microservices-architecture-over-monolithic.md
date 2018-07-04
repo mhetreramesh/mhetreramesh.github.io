@@ -36,3 +36,11 @@ It works well in the early stages of the project or the application. Most of the
 
 - This simple approach has a limitation in size and complexity.
 - The application is too large and complex to fully understand and made changes fast and correctly.
+- The size of the application can slow down the start-up time.
+- You must redeploy the entire application on each update.
+- Impact of a change is usually not very well understood which leads to demand extensive manual testing.
+- Continuous deployment becomes difficult.
+- Monolithic applications can also be difficult to scale when different modules have conflicting resource requirement.
+- Another problem with monolithic applications is reliability. Bug in any small module(e.g. memory leak) can potentially bring down the entire process down. Moreover, since all instances of the application are identical, the bug may impact the availability of entire application.
+- Monolithic applications have a barrier to adopting new technologies or updates. Since changes in frameworks or languages can impact the whole application which is extremely cost effective in terms of cost & time.
+
