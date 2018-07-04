@@ -8,4 +8,4 @@ permalink: /who-i-am
 
 ### Work & Edducation
 
-I'm a Software Engineer by profession, currently developing an e-commerce aggregation platform for <a target="_blank" href="https://www.tradebyte.com">Tradebyte</a> which is a <a href="http://zalando.de">Zalando</a> Company.
+I'm a Software Engineer by profession, currently developing an E-commerce Ecosystem for brands with marketplaces & retailers in <a target="_blank" href="https://www.tradebyte.com">Tradebyte</a> (A <a href="http://zalando.de">Zalando</a> Company).
