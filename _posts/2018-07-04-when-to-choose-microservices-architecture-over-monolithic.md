@@ -67,3 +67,8 @@ The Microservice architecture pattern significantly impacts the relationship bet
 - Deploying a microservices-based application is also more complex. A monolithic application is simply deployed on a set of identical servers behind a load balancer. In contrast, a microservice application typically consists of a large number of services. Each service will have multiple runtime instances.
 - Since the overall infrastructure becomes large compared to monolithic you will end up having more resources to develop & maintain your application.
 
+## Monolithic or microservices?
+
+Building complex applications are inherently difficult. A Monolithic architecture better suits simple, lightweight applications. There are opinions which suggest starting from the monolith first and others which recommend not to start with monolith when your goal is a microservices architecture. But anyway it is important to understand Monolithic architecture since it is the basis for microservices architecture where each service by itself is implemented according to monolithic architecture. The Microservices architecture pattern is the better choice for complex, evolving applications. Actually, the microservices approach is all about handling a complex system, but in order to do so the approach introduces its own set of complexities and implementation challenges.
+
+Finally, the call is yours to choose the approach but I would suggest thinking from long-term perspective & considering the available resources(**budget, time, team**) when you start designing your new architecture.
