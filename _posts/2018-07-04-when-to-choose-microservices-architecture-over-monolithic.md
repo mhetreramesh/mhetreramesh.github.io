@@ -24,6 +24,15 @@ When developing a server-side application you can start it with a modular hexago
 - **Database access** - data access objects responsible for accessing the data from database.
 - **Application integration** - integration with other services (e.g. via Messaging or REST API).
 
+It works well in the early stages of the project or the application. Most of the big & successful applications which exists today were started as a monolith.
+
 ### Pros
 
--
+- Simple to develop & test. For example, you can implement end-to-end testing by simply launching the application and testing the UI with Selenium.
+- Simple to deploy. You just have to copy the packaged application to a server.
+- Simple to scale horizontally by running multiple copies behind a load balancers.
+
+### Cons
+
+- This simple approach has a limitation in size and complexity.
+- The application is too large and complex to fully understand and made changes fast and correctly.
