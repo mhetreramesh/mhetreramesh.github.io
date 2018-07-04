@@ -49,3 +49,11 @@ It works well in the early stages of the project or the application. Most of the
 The idea is to split your application into a set of smaller, interconnected services instead of building a single monolithic application. Each microservice is a small application that has its own hexagonal architecture consisting of business logic with various adapters. Some microservices would expose a REST, RPC or message-based API and most services consume APIs provided by other services. Other microservices might implement a web UI.
 
 The Microservice architecture pattern significantly impacts the relationship between the application and the database. Instead of sharing a single database schema with other services, each service has its own database schema. On the one hand, this approach is at odds with the idea of an enterprise-wide data model. Also, it often results in duplication of some data.
+
+### Pro
+
+- It tackles the problem of complexity by decomposing the application into a set of manageable services which are much faster to develop, and much easier to understand and maintain.
+- It enables each service to be developed independently by a team that is focused on that service.
+- It reduces the barrier of adopting new technologies since the developers are free to choose whatever technologies make sense for their service and not bounded to the choices made at the start of the project.
+- The microservices architecture enables each microservice to be deployed independently. As a result, it makes continuous deployment possible for complex applications.
+- The microservices architecture enables each service to be scaled independently.
