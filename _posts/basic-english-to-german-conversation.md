@@ -11,3 +11,5 @@ header:
 ---
 
 <!-- Motivation: https://www.fluentu.com/blog/german/common-useful-german-travel-phrases-vocabulary-words/ -->
+
+This post is about my journey to learn German language. Learning to write data.
